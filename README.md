@@ -1,4 +1,5 @@
 Barkodlu Satış Uygulaması
+
 • Perakende satış yapan, küçük veya orta ölçekli işletmelerin hızlı satış ve hesap takip gibi temel program ihtiyaçlarını karşılamak üzere herkesin kullanımına uygun bir şekilde gerçekleştirilmiş. Seri barkod ile barkod okuyucusu olmadan barkod tanımlanabilir. Müşteri bekletme işlemi, Nakit, Pos, Nakit ve Pos satış yapılabilir.Her satış sonunda isterseniz resmi değeri olmayan mali değeri olmayan bilgi fişi yazdırabilir. Ve bunun gibi birçok işlem mevcuttur. 
 
 • Kullanılan Teknolojiler: Entity Framework, DateBase First, Rldc Report, C# Form
